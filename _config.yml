@@ -15,7 +15,7 @@ logo: /favicon.png
 
 header_pages:
   - index.md
-  - about.md
+  - 02dir.md
 
 minima:
   skin: solarized-light
