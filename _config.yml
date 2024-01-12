@@ -1,0 +1,26 @@
+title: matt_wyz
+author:
+  name: 02 Raffles Scout Group
+  email: hello@02scouts.org
+  
+description:
+  (c) matt group webdev/Matthew W. 2023-2024
+  No part of this site shall be reproduced in any way, shape or form.
+  
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+  
+logo: /favicon.png
+
+header_pages:
+  - index.md
+  - about.md
+
+minima:
+  skin: auto
+
+  minima:
+  social_links:
+    - { platform: instagram, user_url: "https://instagram.com/02rafflesscouts" }
+    - { platform: youtube, user_url: "https://youtube.com/@matt_wyz" }
