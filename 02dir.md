@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "02 Scouts Administrative Directory"
+title: "02 Admin Directory"
 permalink: /dir
 ---
 Links to all relevant resources are available here.
